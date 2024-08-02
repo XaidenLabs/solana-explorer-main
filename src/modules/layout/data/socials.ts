@@ -21,12 +21,12 @@ export const socials: SocialItem[] = [
   },
   {
     name: "Twitter",
-    link: "https://x.com/0xpasho",
+    link: "https://x.com/xaiden_tech",
     icon: TwitterLogoIcon,
   },
   {
     name: "Instagram",
-    link: "https://instagram.com/0xpasho",
+    link: "https://www.instagram.com/xaidentech/",
     icon: InstagramLogoIcon,
   },
 ];
