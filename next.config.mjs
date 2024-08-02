@@ -1,3 +1,7 @@
+import { createRequire } from 'module';
+
+const require = createRequire(import.meta.url);
+
 await import("./src/env.mjs");
 
 /** @type {import("next").NextConfig} */
